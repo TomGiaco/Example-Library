@@ -1,0 +1,19 @@
+[project]
+name = "coolmath"
+version = "0.1.0"
+description = "A math helper library"
+authors = [
+    { name="Tom Giaco", email="example@mail.com" }
+]
+readme = "README.md"
+license = {file="LICENSE"}
+requires-python = ">=3.8"
+dependencies = ["numpy"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+Homepage = "https://github.com/TomGiaco/Example-Library"
+Issues =   "https://github.com/TomGiaco/Example-Library/issues"
