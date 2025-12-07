@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+coolmath.egg-info/PKG-INFO
+coolmath.egg-info/SOURCES.txt
+coolmath.egg-info/dependency_links.txt
+coolmath.egg-info/requires.txt
+coolmath.egg-info/top_level.txt
+mypythonlib/__init__.py
+mypythonlib/example.py
+tests/tests_my_functions.py
